@@ -1,0 +1,3 @@
+document.getElementById("Goal").addEventListener("click",function(){document.getElementById("image").src="https://ftw.usatoday.com/wp-content/uploads/sites/90/2016/05/epa_italy_soccer_uefa_champions_league_final_2016_82231374.jpg"});
+document.getElementById("saved").addEventListener("click",function(){document.getElementById("image").src="https://static.timesofisrael.com/www/uploads/2022/12/AP22352657225566-e1671389547504.jpg"});
+document.getElementById("Out").addEventListener("click",function(){document.getElementById("image").src="https://cdn.theathletic.com/app/uploads/2022/12/10160946/kane-miss-scaled-e1670706715763.jpg"});

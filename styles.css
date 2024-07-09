@@ -1,0 +1,23 @@
+body{
+    background-color: skyblue;
+}
+#off{
+    width: 100px;
+    height: 50px;
+}
+h1{
+    background-color:conic-gradient(black,blue,green);
+    background-color:white;
+    border-radius: 50%;
+}
+#image{
+    border: 1px solid black;
+
+}
+#Goal,#saved,#Out{
+    width: 150px;
+    height: 40px;
+    background-color:;
+    color: black;
+
+}
